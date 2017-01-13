@@ -31,11 +31,11 @@ Coming Soon
 - [Contributor](#contributor)
 
 ## Screenshots
-<img src="http://nrupeshpatel.com/SensorCloud/Images/ss2.png">
-<img src="http://nrupeshpatel.com/SensorCloud/Images/ss3.png">
-<img src="http://nrupeshpatel.com/SensorCloud/Images/ss5.png">
-<img src="http://nrupeshpatel.com/SensorCloud/Images/ss6.png">
-<img src="http://nrupeshpatel.com/SensorCloud/Images/ss1.png">
+<img src="http://nrupeshpatel.com/Files/SensorCloud/Images/ss2.png">
+<img src="http://nrupeshpatel.com/Files/SensorCloud/Images/ss3.png">
+<img src="http://nrupeshpatel.com/Files/SensorCloud/Images/ss5.png">
+<img src="http://nrupeshpatel.com/Files/SensorCloud/Images/ss6.png">
+<img src="http://nrupeshpatel.com/Files/SensorCloud/Images/ss1.png">
 
 ## Installation
 ### AWS Elastic Beanstalk Installation
